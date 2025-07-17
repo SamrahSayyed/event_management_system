@@ -43,28 +43,6 @@ This project is a simple **Event Management System** implemented in **C language
 3. Process Event Queue
 4. Exit
 
-# 🔍 Sample Use Case
-# Input:
-
-Event Name: "Tech Fest"
-
-Date: "25-08-2025"
-
-Base Cost: ₹10,000
-
-# Attributes:
-
-Stage Setup: ₹5,000
-
-Sound System: ₹2,000
-
-# 📅 Event: Tech Fest
-Date: 25-08-2025
-Base Cost: 10000.00
-Attributes:
-  - Stage Setup (Cost: 5000.00)
-  - Sound System (Cost: 2000.00)
-Estimated Total Cost: 17000.00
 
 # ♻️ Future Enhancements
 Add file I/O support to save/load event data
