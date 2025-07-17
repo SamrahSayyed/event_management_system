@@ -1,22 +1,22 @@
-# 📅 Event Management System (DSA Project in C)
+# Event Management System (DSA Project in C)
 
 This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. It simulates event planning, cost estimation, and queue processing based on user-defined events.
 
 Sample Input and Output uploaded in the repository
 
 
-## 📌 Features
+##  Features
 
-- 📋 Add new events with name, date, and base cost
-- 🏷️ Add multiple custom attributes to each event (e.g., decoration, catering, etc.)
-- ❗ Detect and warn about date clashes
-- 💸 Estimate total event cost (base + all attributes)
-- 🧾 View all events and their details
-- 🔄 Queue-based processing of events (FIFO)
-- 🧹 Graceful memory deallocation to avoid leaks
+-  Add new events with name, date, and base cost
+- 🏷 Add multiple custom attributes to each event (e.g., decoration, catering, etc.)
+-  Detect and warn about date clashes
+-  Estimate total event cost (base + all attributes)
+-  View all events and their details
+-  Queue-based processing of events (FIFO)
+-  Graceful memory deallocation to avoid leaks
 
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Singly Linked Lists
 - Queues (custom implementation)
@@ -25,7 +25,7 @@ Sample Input and Output uploaded in the repository
 - String handling and pointer management
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component     | Technology     |
 |---------------|----------------|
@@ -35,7 +35,7 @@ Sample Input and Output uploaded in the repository
 | Platform      | Command Line Interface (CLI) |
 
 
-# ♻️ Future Enhancements
+#  Future Enhancements
 Add file I/O support to save/load event data
 
 Add sorting options (by date, cost, name)
@@ -46,7 +46,7 @@ Use doubly linked list for reverse traversal
 
 GUI-based frontend using GTK or C++ Qt
 
-# 🙋‍♀️ Author
+#  Author
 Samrah Sayyed
 
 3rd Year Undergraduate
