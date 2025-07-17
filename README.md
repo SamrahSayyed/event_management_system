@@ -32,7 +32,7 @@ This project is a simple **Event Management System** implemented in **C language
 | Data Structure| Linked List, Queue |
 | Platform      | Command Line Interface (CLI) |
 
-# Sample Input and Output uploaded in the repository
+Sample Input and Output uploaded in the repository
 
 # ♻️ Future Enhancements
 Add file I/O support to save/load event data
@@ -47,5 +47,7 @@ GUI-based frontend using GTK or C++ Qt
 
 # 🙋‍♀️ Author
 Samrah Sayyed
+
 3rd Year Undergraduate
+
 Department of Electrical and Electronics Engineering
