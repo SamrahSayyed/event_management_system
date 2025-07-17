@@ -2,7 +2,6 @@
 
 This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. Designed as a Data Structures and Algorithms (DSA) semester project, it simulates event planning, cost estimation, and queue processing based on user-defined events.
 
----
 
 ## 📌 Features
 
@@ -14,7 +13,6 @@ This project is a simple **Event Management System** implemented in **C language
 - 🔄 Queue-based processing of events (FIFO)
 - 🧹 Graceful memory deallocation to avoid leaks
 
----
 
 ## 🧠 Concepts Used
 
@@ -24,7 +22,6 @@ This project is a simple **Event Management System** implemented in **C language
 - Menu-driven programming
 - String handling and pointer management
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,10 +32,7 @@ This project is a simple **Event Management System** implemented in **C language
 | Data Structure| Linked List, Queue |
 | Platform      | Command Line Interface (CLI) |
 
----
 
-
----
 📸 Sample Output
 
 📋 Menu Options
