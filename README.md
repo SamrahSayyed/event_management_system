@@ -1,4 +1,4 @@
-# Event Management System (DSA Project in C)
+# Event Management System 
 
 This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. It simulates event planning, cost estimation, and queue processing based on user-defined events.
 
@@ -8,7 +8,7 @@ Sample Input and Output uploaded in the repository
 ##  Features
 
 -  Add new events with name, date, and base cost
-- 🏷 Add multiple custom attributes to each event (e.g., decoration, catering, etc.)
+-  Add multiple custom attributes to each event (e.g., decoration, catering, etc.)
 -  Detect and warn about date clashes
 -  Estimate total event cost (base + all attributes)
 -  View all events and their details
