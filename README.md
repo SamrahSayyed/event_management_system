@@ -2,6 +2,8 @@
 
 This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. Designed as a Data Structures and Algorithms (DSA) semester project, it simulates event planning, cost estimation, and queue processing based on user-defined events.
 
+Sample Input and Output uploaded in the repository
+
 
 ## 📌 Features
 
@@ -28,11 +30,10 @@ This project is a simple **Event Management System** implemented in **C language
 | Component     | Technology     |
 |---------------|----------------|
 | Language      | C              |
-| IDE/Compiler  | GCC / Code::Blocks / VS Code / Turbo C++ |
+| IDE/Compiler  |  VS Code  |
 | Data Structure| Linked List, Queue |
 | Platform      | Command Line Interface (CLI) |
 
-Sample Input and Output uploaded in the repository
 
 # ♻️ Future Enhancements
 Add file I/O support to save/load event data
