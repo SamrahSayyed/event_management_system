@@ -32,17 +32,7 @@ This project is a simple **Event Management System** implemented in **C language
 | Data Structure| Linked List, Queue |
 | Platform      | Command Line Interface (CLI) |
 
-
-# 📸 Sample Output
-
-# 📋 Menu Options
-
-===== Event Management System =====
-1. Add Event
-2. Display Events
-3. Process Event Queue
-4. Exit
-
+# Sample Input and Output uploaded in the repository
 
 # ♻️ Future Enhancements
 Add file I/O support to save/load event data
