@@ -33,9 +33,9 @@ This project is a simple **Event Management System** implemented in **C language
 | Platform      | Command Line Interface (CLI) |
 
 
-📸 Sample Output
+# 📸 Sample Output
 
-📋 Menu Options
+# 📋 Menu Options
 
 ===== Event Management System =====
 1. Add Event
@@ -43,8 +43,8 @@ This project is a simple **Event Management System** implemented in **C language
 3. Process Event Queue
 4. Exit
 
-🔍 Sample Use Case
-Input:
+# 🔍 Sample Use Case
+# Input:
 
 Event Name: "Tech Fest"
 
@@ -52,13 +52,13 @@ Date: "25-08-2025"
 
 Base Cost: ₹10,000
 
-Attributes:
+# Attributes:
 
 Stage Setup: ₹5,000
 
 Sound System: ₹2,000
 
-📅 Event: Tech Fest
+# 📅 Event: Tech Fest
    Date: 25-08-2025
    Base Cost: 10000.00
    Attributes:
@@ -66,7 +66,7 @@ Sound System: ₹2,000
      - Sound System (Cost: 2000.00)
    Estimated Total Cost: 17000.00
 
-♻️ Future Enhancements
+# ♻️ Future Enhancements
 Add file I/O support to save/load event data
 
 Add sorting options (by date, cost, name)
@@ -77,7 +77,7 @@ Use doubly linked list for reverse traversal
 
 GUI-based frontend using GTK or C++ Qt
 
-🙋‍♀️ Author
+# 🙋‍♀️ Author
 Samrah Sayyed
 3rd Year Undergraduate
 Department of Electrical and Electronics Engineering
