@@ -1,6 +1,6 @@
 # 📅 Event Management System (DSA Project in C)
 
-This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. Designed as a Data Structures and Algorithms (DSA) semester project, it simulates event planning, cost estimation, and queue processing based on user-defined events.
+This project is a simple **Event Management System** implemented in **C language** using **Singly Linked Lists** and **Queue data structures**. It simulates event planning, cost estimation, and queue processing based on user-defined events.
 
 Sample Input and Output uploaded in the repository
 
